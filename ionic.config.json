@@ -1,0 +1,8 @@
+{
+  "name": "StandTall",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "91ca35d6"
+}
