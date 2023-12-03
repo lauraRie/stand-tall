@@ -1,0 +1,9 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "StandTall",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
